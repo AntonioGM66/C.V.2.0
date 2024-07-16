@@ -1,0 +1,51 @@
+header{
+    width: 75%;
+    background-color: azure;
+}
+
+header h1{
+    text-align: center;
+}
+
+header h3{
+    text-align: center;
+}
+
+header img{
+    width: 20%;
+    border-radius: 20%;
+}
+
+.conteiner-1{
+    width: 37.5%;
+    display: inline-block;
+}
+
+.conteiner-1 .contacto h2{
+    text-decoration: underline;
+
+}
+
+.conteiner-1 .contacto img{
+    width: 4%;
+    align-content: end;
+}
+
+.conteiner-1 .habilidades h2{
+    text-decoration: underline;
+}
+
+.conteiner-1 .educacion h2{
+    text-decoration: underline;
+}
+
+.conteiner-2{
+    width: 37.5%;
+    display: inline-block;
+    text-align: justify;
+}
+
+.conteiner-2 h2{
+    text-decoration: underline;
+}
+
